@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "react-native-fetch-api",
-    "slug": "react-native-fetch-api",
+    "name": "rn-expo-fetch-api",
+    "slug": "rn-expo-fetch-api",
     "privacy": "public",
     "sdkVersion": "36.0.0",
     "platforms": [
